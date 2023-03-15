@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mnovel&repo=mnovel&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=mnovel&repo=github-visitors-badge&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
