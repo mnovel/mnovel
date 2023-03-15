@@ -21,7 +21,7 @@
 
 <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=mnovel&repo=github-visitors-badge&countColor=%237B1E7B"/>
 
-### Contact with me 📝
+### 🙋‍♂️ Connect with me:
 
 [<img align="left" alt="Muhammad Novel | LinkedIn" height="30px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="Muhammad Novel | Instagram" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
