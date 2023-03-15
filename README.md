@@ -23,10 +23,11 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="Muhammad Novel | LinkedIn" height="30px" src="https://raw.githubusercontent.com/mnovel/mnovel/main/icon/linkedin.ico"/>][linkedin]
-[<img align="left" alt="Muhammad Novel | Instagram" height="30px" src="https://raw.githubusercontent.com/mnovel/mnovel/main/icon/ig.png" />][instagram]
-[<img align="left" alt="Muhammad Novel | Instagram" height="30px" src="https://github.com/mnovel/mnovel/blob/main/icon/facebook.png?raw=true" />][facebook]
-[<img align="left" alt="Muhammad Novel | Instagram" height="30px" src="https://raw.githubusercontent.com/mnovel/mnovel/main/icon/twitter.2.ico" />][twitter]
+[<img align="left" alt="Muhammad Novel | LinkedIn" height="30px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img align="left" alt="Muhammad Novel | Instagram" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Muhammad Novel | Instagram" height="30px" src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="Muhammad Novel | Instagram" height="30px" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Muhammad Novel | Youtube" height="30px" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />][twitter]
 
 
 <br />
@@ -86,4 +87,5 @@
 [linkedin]: https://www.linkedin.com/in/muhammad-novel/
 [facebook]: https://www.facebook.com/profile.php?id=100011020334361
 [twitter]: https://twitter.com/muhnovel_
+[youtube]: https://www.youtube.com/channel/UCOydDT7yXj1V-KluBe-k3-w
 
