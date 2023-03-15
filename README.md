@@ -78,7 +78,7 @@
 
 ---
 
-### ⭐️ From [mnovel](https://github.com/mnovel) ### 
+### ⭐️ From [mnovel](https://github.com/mnovel?tab=stars) ### 
 
 ---
 
