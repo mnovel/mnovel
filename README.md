@@ -23,10 +23,11 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="[https://www.flaticon.com/svg/static/icons/svg/725/725337.svg](https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca)"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="Muhammad Novel | LinkedIn" height="30px" src="https://raw.githubusercontent.com/mnovel/mnovel/main/icon/linkedin.ico"/>][linkedin]
+[<img align="left" alt="Muhammad Novel | Instagram" height="30px" src="https://raw.githubusercontent.com/mnovel/mnovel/main/icon/ig.png" />][instagram]
+[<img align="left" alt="Muhammad Novel | Instagram" height="30px" src="https://github.com/mnovel/mnovel/blob/main/icon/facebook.png?raw=true" />][facebook]
+[<img align="left" alt="Muhammad Novel | Instagram" height="30px" src="https://raw.githubusercontent.com/mnovel/mnovel/main/icon/twitter.2.ico" />][twitter]
+
 
 <br />
 
@@ -77,17 +78,12 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+### ⭐️ From [mnovel](https://github.com/mnovel) ### 
 
 ---
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
+[instagram]: https://www.instagram.com/muhnovel._
+[linkedin]: https://www.linkedin.com/in/muhammad-novel/
+[facebook]: https://www.facebook.com/profile.php?id=100011020334361
+[twitter]: https://twitter.com/muhnovel_
 
-
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
-
-Last Edited on: 23/09/2020
