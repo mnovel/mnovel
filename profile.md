@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=false&pause=1000&size=22&lines=Cyber+Security+Enthusiast;Full-stack+web+developer;Always+learning+new+thing" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&lines=Cyber+Security+Enthusiast;Full-stack+web+developer;Always+learning+new+thing" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -24,8 +23,6 @@
 <br/>
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCOydDT7yXj1V-KluBe-k3-w?style=for-the-badge&logo=youtube&logoColor=white&labelColor=%23CE4630"/></a>
     <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCOydDT7yXj1V-KluBe-k3-w?style=for-the-badge&logo=youtube&label=VIEWS&labelColor=C79600&color=E1AD0E&logoColor=white">
