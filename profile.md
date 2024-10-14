@@ -1,12 +1,11 @@
 <p align="center">
   <a href="https://github.com/mnovel">
-    <img src="https://raw.githubusercontent.com/mnovel/mnovel/cd6f0d5cf65c3ae2a3135d7aeea41b122bdbb70c/name.svg" alt="Muhammad Novel" /></a>
+    <img src="https://raw.githubusercontent.com/mnovel/mnovel/cd6f0d5cf65c3ae2a3135d7aeea41b122bdbb70c/name.svg" alt="Muhammad Novel" />
+    <br>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&lines=Cyber+Security+Enthusiast;Full-stack+web+developer;Always+learning+new+thing" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&lines=Cyber+Security+Enthusiast;Full-stack+web+developer;Always+learning+new+thing" /></a>
-</p>
 
 <!-- Social icons section -->
 <p align="center">
