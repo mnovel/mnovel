@@ -1,3 +1,4 @@
+
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
@@ -22,8 +23,8 @@
                     values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h440' keyTimes='0;0.8;0.8;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#F75C7E' font-size='22'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
             Muhammad Novel
