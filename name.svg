@@ -1,10 +1,9 @@
-
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 440 45'
+    viewBox='0 0 435 50'
     style='background-color: #00000000;'
-    width='440px' height='45px'>
+    width='435px' height='50px'>
 
     <style>
 @font-face {
@@ -20,10 +19,10 @@
                             <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s'
                     dur='1ms' fill='freeze'
-                    values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h440' keyTimes='0;0.8;0.8;1' />
+                    values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h435' keyTimes='0;0.8;0.8;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#F75C7E' font-size='22'
-        dominant-baseline='auto'
+    <text font-family='"Fira Code", monospace' fill='#F75C7E' font-size='30'
+        dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
